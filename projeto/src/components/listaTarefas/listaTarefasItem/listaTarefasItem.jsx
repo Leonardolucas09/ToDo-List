@@ -1,5 +1,5 @@
 import style from './listaTarefasItem.modules.css';
-import { Botao, TIPO_BOTAO, CampoTexto, Loading } from "../../../components";
+import { Botao, TIPO_BOTAO, CampoTexto, Loading } from "../..";
 import { useAppContext } from '../../../hooks';
 import { useState } from 'react';
 

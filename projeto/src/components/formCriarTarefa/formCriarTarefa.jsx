@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Botao, CampoTexto, Loading } from "../../components";
+import { Botao, CampoTexto, Loading } from "..";
 import style from './formCriarTarefa.module.css';
 import { useAppContext } from "../../hooks";
 import { api } from "../../services";
