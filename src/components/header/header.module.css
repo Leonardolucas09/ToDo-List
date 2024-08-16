@@ -1,0 +1,22 @@
+.Header {
+    background: var(--preto);
+    color: var(--cinza);
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.25rem 1rem;
+}
+.Header a{
+    text-decoration: none;
+    color: var(--cinza);
+}
+
+.Header h1{
+    font-size: 1.3rem;
+    padding: 0.25rem 0.5rem;
+}
+
+.Header h1 span {
+    color: var(--rosa);
+}

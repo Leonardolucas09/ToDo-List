@@ -1,0 +1,22 @@
+:root {
+  --cinza: #EBEBEC;
+  --preto: #272727;
+  --rosa: #F06187;
+  --verde: #36B57F;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--cinza);
+}
+
+body, input, textarea, button {
+  font-size: 1 rem;
+  font-family: sans-serif;
+}
+

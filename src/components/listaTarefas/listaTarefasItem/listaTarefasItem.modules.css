@@ -1,0 +1,8 @@
+.ListaTarefasItem ul, li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 1rem;
+    gap: 2rem;
+    list-style: none;
+}
